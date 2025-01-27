@@ -21,6 +21,10 @@ Key Objectives:
 - Evaluate employee performance and their contributions to sales.  
 - Optimize shipping operations by analyzing shipper performance.  
 - Understand supplier dynamics to improve supply chain efficiency.
+
+EDA Scenarios:
+
+15 EDA scenarios were solved using SQL to explore trends and patterns. The results were visualized in Excel to enhance understanding and communication of insights.
   
 Reports and Flow Diagram:
 
